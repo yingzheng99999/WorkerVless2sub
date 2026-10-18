@@ -1,4 +1,4 @@
-
+// trigger cf build 20261018
 let 快速订阅访问入口 = ['auto'];
 let addresses = [];
 let addressesapi = [];
